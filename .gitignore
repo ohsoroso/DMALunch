@@ -54,3 +54,4 @@ bld/
 [Ll]og/
 [Ll]ogs/
 *.pdb
+tree_gen.py
